@@ -18,8 +18,8 @@ A simple PHP project to randomly distribute 52 playing cards among a specified n
 ### ✅ 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/card-distributor.git
-cd card-distributor
+git clone https://github.com/fahmie/playing_card.git
+cd playing_card
 ```
 ### ✅ 2. Build & run with Docker
 
